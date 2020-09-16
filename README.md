@@ -31,7 +31,7 @@ The variables included in this dataset are:
     values are coded as `NA`)
 
 * **date**: The date on which the measurement was taken in YYYY-MM-DD
-    format
+    format 
 
 * **interval**: Identifier for the 5-minute interval in which
     measurement was taken
